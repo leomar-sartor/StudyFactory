@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec812ef5-e73a-4f6a-acf7-fa71b28ffb64": {
+      "ProjectGuid": "ec812ef5-e73a-4f6a-acf7-fa71b28ffb64",
+      "DisplayName": "DesignPaternFactory",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

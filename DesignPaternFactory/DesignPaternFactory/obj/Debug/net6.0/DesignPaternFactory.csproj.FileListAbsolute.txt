@@ -1,0 +1,15 @@
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\DesignPaternFactory\bin\Debug\net6.0\DesignPaternFactory.exe
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\DesignPaternFactory\bin\Debug\net6.0\DesignPaternFactory.deps.json
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\DesignPaternFactory\bin\Debug\net6.0\DesignPaternFactory.runtimeconfig.json
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\DesignPaternFactory\bin\Debug\net6.0\DesignPaternFactory.dll
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\DesignPaternFactory\bin\Debug\net6.0\ref\DesignPaternFactory.dll
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\DesignPaternFactory\bin\Debug\net6.0\DesignPaternFactory.pdb
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\DesignPaternFactory\obj\Debug\net6.0\DesignPaternFactory.csproj.AssemblyReference.cache
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\DesignPaternFactory\obj\Debug\net6.0\DesignPaternFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\DesignPaternFactory\obj\Debug\net6.0\DesignPaternFactory.AssemblyInfoInputs.cache
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\DesignPaternFactory\obj\Debug\net6.0\DesignPaternFactory.AssemblyInfo.cs
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\DesignPaternFactory\obj\Debug\net6.0\DesignPaternFactory.csproj.CoreCompileInputs.cache
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\DesignPaternFactory\obj\Debug\net6.0\DesignPaternFactory.dll
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\DesignPaternFactory\obj\Debug\net6.0\ref\DesignPaternFactory.dll
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\DesignPaternFactory\obj\Debug\net6.0\DesignPaternFactory.pdb
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\DesignPaternFactory\obj\Debug\net6.0\DesignPaternFactory.genruntimeconfig.cache
