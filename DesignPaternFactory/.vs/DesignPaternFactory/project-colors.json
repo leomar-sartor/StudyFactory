@@ -5,7 +5,32 @@
       "ProjectGuid": "ec812ef5-e73a-4f6a-acf7-fa71b28ffb64",
       "DisplayName": "DesignPaternFactory",
       "ColorIndex": 0
+    },
+    "5f5b7aaf-d3d4-4ebd-b3b1-39af54ba1b81": {
+      "ProjectGuid": "5f5b7aaf-d3d4-4ebd-b3b1-39af54ba1b81",
+      "DisplayName": "StaticFactoryMethod",
+      "ColorIndex": 1
+    },
+    "04da876b-2790-487c-80f0-e0006f39e56d": {
+      "ProjectGuid": "04da876b-2790-487c-80f0-e0006f39e56d",
+      "DisplayName": "AsynchronousFactoryMethod",
+      "ColorIndex": 2
+    },
+    "803f4cee-75df-4393-9727-f9fd6daaffee": {
+      "ProjectGuid": "803f4cee-75df-4393-9727-f9fd6daaffee",
+      "DisplayName": "ParameterizedFactory",
+      "ColorIndex": 3
+    },
+    "87318c96-44b0-4bc2-8ad0-935f047e20eb": {
+      "ProjectGuid": "87318c96-44b0-4bc2-8ad0-935f047e20eb",
+      "DisplayName": "InnerFactory",
+      "ColorIndex": 4
+    },
+    "78c2a4f9-d34e-4cd2-a237-fc2a90211759": {
+      "ProjectGuid": "78c2a4f9-d34e-4cd2-a237-fc2a90211759",
+      "DisplayName": "AbstractFactory",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 6
 }

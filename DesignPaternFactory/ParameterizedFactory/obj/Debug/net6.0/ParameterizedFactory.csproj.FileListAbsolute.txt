@@ -1,0 +1,15 @@
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\ParameterizedFactory\bin\Debug\net6.0\ParameterizedFactory.exe
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\ParameterizedFactory\bin\Debug\net6.0\ParameterizedFactory.deps.json
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\ParameterizedFactory\bin\Debug\net6.0\ParameterizedFactory.runtimeconfig.json
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\ParameterizedFactory\bin\Debug\net6.0\ParameterizedFactory.dll
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\ParameterizedFactory\bin\Debug\net6.0\ref\ParameterizedFactory.dll
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\ParameterizedFactory\bin\Debug\net6.0\ParameterizedFactory.pdb
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\ParameterizedFactory\obj\Debug\net6.0\ParameterizedFactory.csproj.AssemblyReference.cache
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\ParameterizedFactory\obj\Debug\net6.0\ParameterizedFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\ParameterizedFactory\obj\Debug\net6.0\ParameterizedFactory.AssemblyInfoInputs.cache
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\ParameterizedFactory\obj\Debug\net6.0\ParameterizedFactory.AssemblyInfo.cs
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\ParameterizedFactory\obj\Debug\net6.0\ParameterizedFactory.csproj.CoreCompileInputs.cache
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\ParameterizedFactory\obj\Debug\net6.0\ParameterizedFactory.dll
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\ParameterizedFactory\obj\Debug\net6.0\ref\ParameterizedFactory.dll
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\ParameterizedFactory\obj\Debug\net6.0\ParameterizedFactory.pdb
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\ParameterizedFactory\obj\Debug\net6.0\ParameterizedFactory.genruntimeconfig.cache

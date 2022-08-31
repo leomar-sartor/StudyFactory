@@ -1,0 +1,15 @@
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\StaticFactoryMethod\bin\Debug\net6.0\StaticFactoryMethod.exe
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\StaticFactoryMethod\bin\Debug\net6.0\StaticFactoryMethod.deps.json
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\StaticFactoryMethod\bin\Debug\net6.0\StaticFactoryMethod.runtimeconfig.json
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\StaticFactoryMethod\bin\Debug\net6.0\StaticFactoryMethod.dll
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\StaticFactoryMethod\bin\Debug\net6.0\ref\StaticFactoryMethod.dll
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\StaticFactoryMethod\bin\Debug\net6.0\StaticFactoryMethod.pdb
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\StaticFactoryMethod\obj\Debug\net6.0\StaticFactoryMethod.csproj.AssemblyReference.cache
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\StaticFactoryMethod\obj\Debug\net6.0\StaticFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\StaticFactoryMethod\obj\Debug\net6.0\StaticFactoryMethod.AssemblyInfoInputs.cache
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\StaticFactoryMethod\obj\Debug\net6.0\StaticFactoryMethod.AssemblyInfo.cs
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\StaticFactoryMethod\obj\Debug\net6.0\StaticFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\StaticFactoryMethod\obj\Debug\net6.0\StaticFactoryMethod.dll
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\StaticFactoryMethod\obj\Debug\net6.0\ref\StaticFactoryMethod.dll
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\StaticFactoryMethod\obj\Debug\net6.0\StaticFactoryMethod.pdb
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\StaticFactoryMethod\obj\Debug\net6.0\StaticFactoryMethod.genruntimeconfig.cache

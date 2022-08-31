@@ -1,0 +1,15 @@
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\InnerFactory\bin\Debug\net6.0\InnerFactory.exe
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\InnerFactory\bin\Debug\net6.0\InnerFactory.deps.json
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\InnerFactory\bin\Debug\net6.0\InnerFactory.runtimeconfig.json
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\InnerFactory\bin\Debug\net6.0\InnerFactory.dll
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\InnerFactory\bin\Debug\net6.0\ref\InnerFactory.dll
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\InnerFactory\bin\Debug\net6.0\InnerFactory.pdb
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\InnerFactory\obj\Debug\net6.0\InnerFactory.csproj.AssemblyReference.cache
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\InnerFactory\obj\Debug\net6.0\InnerFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\InnerFactory\obj\Debug\net6.0\InnerFactory.AssemblyInfoInputs.cache
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\InnerFactory\obj\Debug\net6.0\InnerFactory.AssemblyInfo.cs
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\InnerFactory\obj\Debug\net6.0\InnerFactory.csproj.CoreCompileInputs.cache
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\InnerFactory\obj\Debug\net6.0\InnerFactory.dll
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\InnerFactory\obj\Debug\net6.0\ref\InnerFactory.dll
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\InnerFactory\obj\Debug\net6.0\InnerFactory.pdb
+C:\Projetos\Factory\StudyFactory\DesignPaternFactory\InnerFactory\obj\Debug\net6.0\InnerFactory.genruntimeconfig.cache
