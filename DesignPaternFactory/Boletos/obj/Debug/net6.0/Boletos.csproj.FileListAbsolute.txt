@@ -1,0 +1,15 @@
+C:\Users\leomar.sartor\Downloads\StudyFactory-main\DesignPaternFactory\Boletos\bin\Debug\net6.0\Boletos.exe
+C:\Users\leomar.sartor\Downloads\StudyFactory-main\DesignPaternFactory\Boletos\bin\Debug\net6.0\Boletos.deps.json
+C:\Users\leomar.sartor\Downloads\StudyFactory-main\DesignPaternFactory\Boletos\bin\Debug\net6.0\Boletos.runtimeconfig.json
+C:\Users\leomar.sartor\Downloads\StudyFactory-main\DesignPaternFactory\Boletos\bin\Debug\net6.0\Boletos.dll
+C:\Users\leomar.sartor\Downloads\StudyFactory-main\DesignPaternFactory\Boletos\bin\Debug\net6.0\ref\Boletos.dll
+C:\Users\leomar.sartor\Downloads\StudyFactory-main\DesignPaternFactory\Boletos\bin\Debug\net6.0\Boletos.pdb
+C:\Users\leomar.sartor\Downloads\StudyFactory-main\DesignPaternFactory\Boletos\obj\Debug\net6.0\Boletos.csproj.AssemblyReference.cache
+C:\Users\leomar.sartor\Downloads\StudyFactory-main\DesignPaternFactory\Boletos\obj\Debug\net6.0\Boletos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leomar.sartor\Downloads\StudyFactory-main\DesignPaternFactory\Boletos\obj\Debug\net6.0\Boletos.AssemblyInfoInputs.cache
+C:\Users\leomar.sartor\Downloads\StudyFactory-main\DesignPaternFactory\Boletos\obj\Debug\net6.0\Boletos.AssemblyInfo.cs
+C:\Users\leomar.sartor\Downloads\StudyFactory-main\DesignPaternFactory\Boletos\obj\Debug\net6.0\Boletos.csproj.CoreCompileInputs.cache
+C:\Users\leomar.sartor\Downloads\StudyFactory-main\DesignPaternFactory\Boletos\obj\Debug\net6.0\Boletos.dll
+C:\Users\leomar.sartor\Downloads\StudyFactory-main\DesignPaternFactory\Boletos\obj\Debug\net6.0\ref\Boletos.dll
+C:\Users\leomar.sartor\Downloads\StudyFactory-main\DesignPaternFactory\Boletos\obj\Debug\net6.0\Boletos.pdb
+C:\Users\leomar.sartor\Downloads\StudyFactory-main\DesignPaternFactory\Boletos\obj\Debug\net6.0\Boletos.genruntimeconfig.cache

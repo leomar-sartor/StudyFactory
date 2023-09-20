@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "lvhGsglGZhI4OIqjMascRknXUQrjjBhxe2I2ajyfAuYpuqh+F+B5sV1XqNba3GbQ7QatG6bYtdPN6fRAjB/9FQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leomar.sartor\\Downloads\\StudyFactory-main\\DesignPaternFactory\\AbstractFactory\\AbstractFactory.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://vmbtfs01des/FcNugetServer/nuget/'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://vmpltapbru01dev.funcional.local/NuGetServer/nuget/'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Você está executando a operação 'restore' com uma fonte 'HTTP', 'http://nexus.funcionalcorp.net.br/repository/fun-nuget-group/'. O acesso não HTTPS será removido em uma versão futura. Considere migrar para uma fonte 'HTTPS'."
+    }
+  ]
+}
